@@ -1,0 +1,7 @@
+Please build the landing page to the following specifications:
+
+Fully responsive accross all browsers/mobile devices
+Uses the skeleton responsive framework
+Include a form that directs user to a thank you page 
+Form must be responsive and include front end validation 
+Form does not need to process the information (we use Marketo forms for data handling)
